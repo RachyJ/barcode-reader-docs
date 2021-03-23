@@ -11,7 +11,7 @@ breadcrumbText: Parameters
 
 ## Getting Started
 
-- [Hierarchy and Work Domain of Parameters](structure-and-interfaces-of-parameters.md)
+- [Hierarchy and Interfaces of Parameters](structure-and-interfaces-of-parameters.md)
 
 ## Reference
 
